@@ -1,12 +1,12 @@
-#Dogecoin Price Prediction using Machine Learning
+**Dogecoin Price Prediction using Machine Learning**
 
-##Overview
+**Overview**
 
 Dogecoin is a popular cryptocurrency that started as a meme but has since gained massive attention and value in the crypto market.
 This project aims to predict the closing price of Dogecoin using machine learning techniques — combining data analysis, feature engineering, and time series forecasting (SARIMAX model).
 
 
-##Project Objectives
+**Project Objectives**
 
 Load and clean Dogecoin historical price data
 
@@ -20,7 +20,7 @@ Visualize and compare predictions with actual values
 
 
 
-##Tech Stack
+**Tech Stack**
 
 Language: Python
 
@@ -38,7 +38,7 @@ statsmodels.tsa.statespace – Time series modeling (SARIMAX)
 
 
 
-##Dataset
+**Dataset**
 
 Name: DOGE-USD
 
